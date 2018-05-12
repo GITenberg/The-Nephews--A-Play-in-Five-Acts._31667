@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35389
     wikipedia: http://en.wikipedia.org/wiki/August_Wilhelm_Iffland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31667#The-Nephews--A-Play-in-Five-Acts.
 gutenberg_issued: '2010-03-16'
 gutenberg_type: Text
 identifiers:
